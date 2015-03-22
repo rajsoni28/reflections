@@ -1,1 +1,11 @@
 Reflections 3 for the Git hub tutorial
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Ans: Because I might be working with another collaborator who may have committed and I may not want to bring those chages in just yet
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks: When I want to close someone else's repository on GitHub
+	Clones: When I want to make a copy of the repository on my local machine
+	Branch: When I want to make changes, run experiments etc.
+	
